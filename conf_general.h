@@ -52,8 +52,8 @@
 //#define HW_SOURCE "hw_45.c"
 //#define HW_HEADER "hw_45.h"
 
-//#define HW_SOURCE "hw_46.c" // Also for 4.7
-//#define HW_HEADER "hw_46.h" // Also for 4.7
+#define HW_SOURCE "hw_46.c" // Also for 4.7
+#define HW_HEADER "hw_46.h" // Also for 4.7
 
 //#define HW_SOURCE "hw_48.c"
 //#define HW_HEADER "hw_48.h"
